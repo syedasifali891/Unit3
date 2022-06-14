@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "6296c11d3fd4225b64e44a1d"
+  },
+  "first_name": "Austin",
+  "last_name": "Ekeler",
+  "rushing_yards": 607,
+  "touchdown_passes": 45,
+  "goals_made": 45,
+  "sacks": 31,
+  "catches": 647
+},{
+  "_id": {
+    "$oid": "6296c2643fd4225b64e44a1e"
+  },
+  "first_name": "keenan",
+  "last_name": "Allen",
+  "rushing_yards": 1138,
+  "touchdown_passes": 106,
+  "goals_made": 50,
+  "sacks": 35,
+  "catches": 650
+},{
+  "_id": {
+    "$oid": "6296c2e83fd4225b64e44a1f"
+  },
+  "first_name": "Mike",
+  "last_name": "Williams",
+  "rushing_yards": 1146,
+  "touchdown_passes": 76,
+  "goals_made": 129,
+  "sacks": 41,
+  "catches": 550
+},{
+  "_id": {
+    "$oid": "6296c3543fd4225b64e44a20"
+  },
+  "first_name": "Jalen",
+  "last_name": "Guyton",
+  "rushing_yards": 448,
+  "touchdown_passes": 31,
+  "goals_made": 48,
+  "sacks": 85,
+  "catches": 190
+},{
+  "_id": {
+    "$oid": "6296c3ae3fd4225b64e44a21"
+  },
+  "first_name": "josh",
+  "last_name": "Palmer",
+  "rushing_yards": 353,
+  "touchdown_passes": 425,
+  "goals_made": 49,
+  "sacks": 67,
+  "catches": 158
+},{
+  "_id": {
+    "$oid": "6296c40c3fd4225b64e44a22"
+  },
+  "first_name": "DeAndre",
+  "last_name": "Carter",
+  "rushing_yards": 296,
+  "touchdown_passes": 415,
+  "goals_made": 43,
+  "sacks": 25,
+  "catches": 145
+},{
+  "_id": {
+    "$oid": "6296c4593fd4225b64e44a23"
+  },
+  "first_name": "Jason",
+  "last_name": "Moore",
+  "rushing_yards": 56,
+  "touchdown_passes": 57,
+  "goals_made": 4,
+  "sacks": 15,
+  "catches": 48
+},{
+  "_id": {
+    "$oid": "6296c4bc3fd4225b64e44a24"
+  },
+  "first_name": "Gerald",
+  "last_name": "Everett",
+  "rushing_yards": 478,
+  "touchdown_passes": 86,
+  "goals_made": 63,
+  "sacks": 19,
+  "catches": 428
+},{
+  "_id": {
+    "$oid": "6296c5213fd4225b64e44a25"
+  },
+  "first_name": "Donald",
+  "last_name": "Parham",
+  "rushing_yards": 190,
+  "touchdown_passes": 137,
+  "goals_made": 27,
+  "sacks": 16,
+  "catches": 265
+},{
+  "_id": {
+    "$oid": "6296c56a3fd4225b64e44a26"
+  },
+  "first_name": "Tre",
+  "last_name": "McKitty",
+  "rushing_yards": 45,
+  "touchdown_passes": 23,
+  "goals_made": 8,
+  "sacks": 51,
+  "catches": 25
+},{
+  "_id": {
+    "$oid": "6296c61c3fd4225b64e44a27"
+  },
+  "first_name": "Drue",
+  "last_name": "Tranquill",
+  "rushing_yards": 25,
+  "touchdown_passes": 56,
+  "goals_made": 8,
+  "sacks": 34,
+  "catches": 45
+},{
+  "_id": {
+    "$oid": "6296c6753fd4225b64e44a28"
+  },
+  "first_name": "joe",
+  "last_name": "reed",
+  "rushing_yards": 0,
+  "touchdown_passes": 7,
+  "goals_made": 1,
+  "sacks": 2,
+  "catches": 0
+},{
+  "_id": {
+    "$oid": "6296c6c93fd4225b64e44a29"
+  },
+  "first_name": "Chase",
+  "last_name": "Daniel",
+  "rushing_yards": 0,
+  "touchdown_passes": 2,
+  "goals_made": 0,
+  "sacks": 0,
+  "catches": 0
+},{
+  "_id": {
+    "$oid": "62a80b6c8386e1ff7470cddc"
+  },
+  "first_name": "Asif Ali",
+  "last_name": "Syed",
+  "rushing_yards": 4,
+  "touchdown_passes": 2,
+  "goals_made": 15,
+  "sacks": 0,
+  "catches": 10
+},{
+  "_id": {
+    "$oid": "62a80f238386e1ff7470cddd"
+  },
+  "first_name": "welson",
+  "last_name": "stick",
+  "rushing_yards": 4,
+  "touchdown_passes": 2,
+  "goals_made": 1,
+  "sacks": 0,
+  "catches": 0
+}]
